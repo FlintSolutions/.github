@@ -1,18 +1,4 @@
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./images/flint-logo-white.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./images/flint-logo-black.svg">
-    <img alt="Flint" src="./images/flint-logo-black.svg" width="226">
-  </picture>
-</p>
-
-<h3 align="center">Chaque projet commence par l'étude. Le code ensuite.</h3>
-
-<p align="center">
-  Stratèges, développeurs, ingénieurs et designers sous le même toit pour concevoir des produits digitaux qui réalisent vos objectifs.
-</p>
-
----
+<img alt="Flint — Chaque projet commence par l'étude. Le code ensuite." src="./images/banner.png" width="100%">
 
 ## À propos
 
