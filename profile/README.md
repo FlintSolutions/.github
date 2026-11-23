@@ -1,4 +1,4 @@
-<img alt="Flint — Chaque projet commence par l'étude. Le code ensuite." src="./images/flint-banner.png" width="100%">
+<img alt="Flint — Chaque projet commence par l'étude. Le code ensuite." src="./images/flint-banner-hero.png" width="100%">
 
 ## À propos
 
