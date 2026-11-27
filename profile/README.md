@@ -17,6 +17,6 @@ Petite équipe, collaboration à distance, clients partout dans le monde. Toujou
 
 ## Du Maroc vers le monde
 
-- 📍 **Agadir, Maroc** : installés au Technopark Agadir
-- 🌍 **À distance** : nous travaillons avec des entreprises du monde entier
-- 🏗️ **Fondé en 2024** : un studio jeune, déjà en mouvement
+- **Agadir, Maroc** : installés au Technopark Agadir
+- **À distance** : nous travaillons avec des entreprises du monde entier
+- **Fondé en 2024** : un studio jeune, déjà en mouvement
